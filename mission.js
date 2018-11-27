@@ -1,0 +1,57 @@
+/*Mission 1:
+ Team Member: 
+ 
+ @param Datatype: Number
+ @return Datatype: Number
+ 
+ Create a function named yenConverter that takes a parameter rate and will convert dollars to yen based on today's foreign exchange rate and returns the new yen amount.
+ Console.log your result*/
+ 
+ 
+ /*Mission 2:
+ Team Member: 
+ 
+ @param Datatype: Number
+ @return Datatype: Number
+ 
+ Create a function named kmConverter that takes in a parameter miles and will convert miles to kilometers and returns the new kilometer amount
+ Console.log your result.*/
+ 
+
+ /*Mission 3:
+ Team Member: 
+ 
+ @param Datatype: Number
+ @return Datatype: String
+ 
+ Create a function named whatToEat that takes in a parameter budget. Create the following return statements based on the budget amount: 
+ 
+ <=5 => "Mickey D's"
+ <=10 => "Panda Express"
+ >10 => "Peppas"
+ 
+ Console.log your result*/
+ 
+ 
+ /*Mission 4:
+ Team Member: 
+ 
+ @param Datatype: Array
+ @return Datatype: Array
+ 
+ Create a function named countUp that takes in a parameter arr and will add 1 to each number in the array and returns the array.
+ Console.log you result.*/
+
+
+  
+ /*Mission 5:
+ Team Member: 
+ 
+ @param Datatype: Array
+ @return Datatype: Array
+ 
+ Create a function named countDown that takes in a parameter arr and will subtract 1 to each number in the array and returns the array.
+
+ Console.log you result.*/
+ 
+ 
