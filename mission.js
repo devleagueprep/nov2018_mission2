@@ -41,7 +41,14 @@
  
  Create a function named countUp that takes in a parameter arr and will add 1 to each number in the array and returns the array.
  Console.log you result.*/
-
+ var arrayBox = [0,5,10,15]
+function countUp(arr){
+    for(var i = 0; i<arrayBox.length; i++){
+        return arrayBox[i] + 1;
+    }  
+}
+console.log(arrayBox[i]);
+//still in progress
 
   
  /*Mission 5:
