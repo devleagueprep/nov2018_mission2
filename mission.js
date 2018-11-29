@@ -32,6 +32,17 @@
  
  Console.log your result*/
  
+function whatToEat(budget){
+    if (budget <= 5) {
+        return 'Mickey D\'s';
+    } else if (budget <= 10) {
+        return 'Panda Express';
+    } else {
+        return 'Peppas';
+    }
+}
+
+console.log(whatToEat(13));
  
  /*Mission 4:
  Team Member: Sylvia
