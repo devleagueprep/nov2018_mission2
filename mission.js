@@ -1,5 +1,5 @@
 /*Mission 1:
- Team Member: 
+ Team Member: Davis
  
  @param Datatype: Number
  @return Datatype: Number
@@ -9,7 +9,7 @@
  
  
  /*Mission 2:
- Team Member: 
+ Team Member: Eunice
  
  @param Datatype: Number
  @return Datatype: Number
@@ -19,7 +19,7 @@
  
 
  /*Mission 3:
- Team Member: 
+ Team Member: Tyler
  
  @param Datatype: Number
  @return Datatype: String
@@ -34,7 +34,7 @@
  
  
  /*Mission 4:
- Team Member: 
+ Team Member: Sylvia
  
  @param Datatype: Array
  @return Datatype: Array
@@ -45,7 +45,7 @@
 
   
  /*Mission 5:
- Team Member: 
+ Team Member: Roland
  
  @param Datatype: Array
  @return Datatype: Array
