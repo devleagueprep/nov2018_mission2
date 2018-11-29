@@ -53,5 +53,12 @@
  Create a function named countDown that takes in a parameter arr and will subtract 1 to each number in the array and returns the array.
 
  Console.log you result.*/
- 
+ function countDown(arr){
+     var newArray = [];
+    for(i=0;i<arr.length;i++){
+    newArray.push(arr[i]-1)
+    }
+    return newArray1;
+ }
+ countDown([10]);
  
